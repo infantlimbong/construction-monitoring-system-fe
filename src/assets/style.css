@@ -1,0 +1,13 @@
+.overflow-x-scroll::-webkit-scrollbar{
+    height: 5px;
+}
+
+.overflow-x-scroll::-webkit-scrollbar-track{
+    background: #1D1D1D;
+}
+
+.overflow-x-scroll::-webkit-scrollbar-thumb{
+    background: #FFF200;
+    border-radius: 2px;
+}
+
